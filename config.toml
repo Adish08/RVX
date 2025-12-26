@@ -6,8 +6,6 @@ excluded-patches = "'Custom branding'"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 patches-source = "inotia00/revanced-cli-arsclib"
 integrations-source = "inotia00/revanced-integrations"
-rv-brand = "inotia00 ReVanced"
-
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
@@ -15,5 +13,4 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-rv-brand = "inotia00 ReVanced"
 excluded-patches = "'Custom branding'"
